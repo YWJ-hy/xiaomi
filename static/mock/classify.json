@@ -1,0 +1,133 @@
+{
+  "taxonomic": [
+    { "id": "1", "name":"新品"},
+    { "id": "2", "name":"手机"},
+    { "id": "3", "name":"电视"},
+    { "id": "4", "name":"众筹"},
+    { "id": "5", "name":"家电"},
+    { "id": "6", "name":"路由"},
+    { "id": "7", "name":"出行"},
+    { "id": "8", "name":"穿戴"},
+    { "id": "9", "name":"智能"},
+    { "id": "10", "name":"电源"},
+    { "id": "11", "name":"健康"},
+    { "id": "12", "name":"灯具"},
+    { "id": "13", "name":"儿童"},
+    { "id": "14", "name":"音频"},
+    { "id": "15", "name":"箱包"},
+    { "id": "16", "name":"生活"},
+    { "id": "17", "name":"配件"},
+    { "id": "18", "name":"家装"},
+    { "id": "19", "name":"礼品"},
+    { "id": "20", "name":"服务"}
+  ],
+  "mobilePhone": [
+    { "id": "1",
+      "name":"小米9",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/03dfeb60ec59ba6738a58f33b819ddb1!120x120.png"
+    },
+    { "id": "2",
+      "name":"小米9王源定制版",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/06cabb01bbe4ac5c819ee101e4446a16!120x120.png"
+    },
+    { "id": "3",
+      "name":"小米9 SE",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/197587a8281cb9b62e73e94473605e7e!120x120.png"
+    },
+    { "id": "4",
+      "name":"小米9 SE布朗熊定制版",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/209cdc7c6b58588d6d20569ac0ffd895!120x120.png"
+    },
+    { "id": "5",
+      "name":"Redmi Note 7 Pro",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/32468f88d5ef767f43044d7db46960a2!120x120.png"
+    },
+    { "id": "6",
+      "name":"Redmi Note 7",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/448a0fcd77e25873cd730a1423d2f6df!120x120.png"
+    },
+    { "id": "7",
+      "name":"黑沙游戏手机",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/51c53855defb28d558d71e02e0ae747d!120x120.png"
+    },
+    { "id": "8",
+      "name":"小米MIX",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/8dbd523e76673afb58e16e3f74520735!120x120.png"
+    },
+    { "id": "9",
+      "name":"Redmi 7",
+      "imgUrl": "https://i8.mifile.cn/b2c-mimall-media/96d88d3beb17fc78fb930afe2f313f14!120x120.png"
+    }
+  ],
+  "television": [
+    {
+      "id": "1",
+      "name": "32-40英寸",
+      "imgUrl": "http://i8.mifile.cn/b2c-mimall-media/033cfa4ab48b9d776dcb69e730022561!120x120.png"
+    },
+    {
+      "id": "2",
+      "name": "43英寸",
+      "imgUrl": "http://i8.mifile.cn/b2c-mimall-media/e84d9b98b558bb57632be6dc794455e7!120x120.png"
+    },
+    {
+      "id": "3",
+      "name": "49-50英寸",
+      "imgUrl": "http://i8.mifile.cn/b2c-mimall-media/54fc8e14d50a2abde556a30b74c41a99!120x120.jpg"
+    },
+    {
+      "id": "4",
+      "name": "55-58英寸",
+      "imgUrl": "http://i8.mifile.cn/b2c-mimall-media/90553f751c9eb6bda9a2ae7c4bce012b!120x120.jpg"
+    },
+    {
+      "id": "5",
+      "name": "65-75英寸",
+      "imgUrl": "http://i8.mifile.cn/b2c-mimall-media/bf2dc71cbf6fa8413b7ade09719155a0!120x120.jpg"
+    },
+    {
+      "id": "6",
+      "name": "激光投影电视",
+      "imgUrl": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/1fcf86a09e362a6a7bc3ded8f9124749.jpg"
+    }
+  ],
+  "crowd": [
+    { "id": "1",
+      "name":"净水器600G",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c3bc45fe22a56065496f8d460b51fdfc.jpg"
+    },
+    { "id": "2",
+      "name":"无线吸尘器",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6c11fd92e902f3d7ae6f4d25e577c52b.png"
+    },
+    { "id": "3",
+      "name":"投影仪青春版",
+      "imgUrl": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/855ca43ed3400bdbaeb0b08e246d1ff7.jpg"
+    },
+    { "id": "4",
+      "name":"电暖器",
+      "imgUrl": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/4ed25433bf165ba1bc009c2f37f8a010.jpg"
+    },
+    { "id": "5",
+      "name":"照片打印器",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/906df61431e627a11c1e784256863cab.jpg"
+    },
+    { "id": "6",
+      "name":"智能门锁",
+      "imgUrl": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/70e40f532eb8f91396579bbf2b818afe.jpg"
+    },
+    { "id": "7",
+      "name":"米家吹风机",
+      "imgUrl": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/e539bf483c8d2315597d57a2826f1dfb.jpg"
+    },
+    { "id": "8",
+      "name":"洗衣机套装",
+      "imgUrl": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a394a907ab7ddd6d83e1105a47902f09.jpg"
+    },
+    { "id": "9",
+      "name":"米家新风机",
+      "imgUrl": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/9cd9a10a8e380ed57fe05c0e8ac63c44.jpg"
+    }
+  ]
+
+}

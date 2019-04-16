@@ -22,6 +22,11 @@ export default new Router({
       path: '/center',
       name: 'center',
       component: () => import('../views/center/index.vue')
+    },
+    {
+      path: '/classify',
+      name: 'classify',
+      component: () => import('../views/classify/index.vue')
     }
   ]
 })
