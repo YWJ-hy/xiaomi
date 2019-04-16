@@ -8,7 +8,7 @@
     }],
     "stage-2"
   ],
-  "plugins": ["transform-vue-jsx", "transform-runtime",
+  "plugins": ["transform-remove-strict-mode",
     ["import", {
       "libraryName": "vant",
       "libraryDirectory": "es",

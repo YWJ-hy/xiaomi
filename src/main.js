@@ -4,8 +4,11 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 
-import { Search } from 'vant'
+import { Search, Tab, Tabs, Swipe, SwipeItem, Tabbar, TabbarItem } from 'vant'
 Vue.use(Search)
+Vue.use(Tab).use(Tabs)
+Vue.use(Swipe).use(SwipeItem)
+Vue.use(Tabbar).use(TabbarItem)
 
 Vue.config.productionTip = false
 
