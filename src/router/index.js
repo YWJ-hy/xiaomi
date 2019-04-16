@@ -17,6 +17,11 @@ export default new Router({
       children: [
         {path: 'recommend', component: () => import('../views/home/recommend.vue')}
       ]
+    },
+    {
+      path: '/center',
+      name: 'center',
+      component: () => import('../views/center/index.vue')
     }
   ]
 })
