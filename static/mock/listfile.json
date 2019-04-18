@@ -1,0 +1,110 @@
+{
+  "listfile": [
+    {
+      "name": "Air 12.5 2019款",
+      "brief": "像杂志一样随身携带",
+      "price": "￥3599",
+      "imgsrc": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/343a16c2af7b5e577eba84f38eaa2c61.jpg"
+    },
+    {
+      "name": "Air 13.3 2019款",
+      "brief": "新一代独立显卡",
+      "price": "￥4999",
+      "imgsrc": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9ebd5c9d1e8d2f875aa5e94bc92000fd.jpg"
+    },
+    {
+      "name": "15.6Pro GTX版",
+      "brief": "更强悍的专业笔记本",
+      "price": "￥6299",
+      "imgsrc": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b03b58195fdb2dbf53cb9cbb2e18c6b2.jpg"
+    },
+    {
+      "name": "小米笔记本Pro 15.6",
+      "brief": "全金属强化机身搭配独显",
+      "price": "￥5599",
+      "imgsrc": "http://i8.mifile.cn/b2c-mimall-media/24d2d7476a2ebb32e0e0013e0baaeb2a.jpg"
+    },
+    {
+      "name": "小米游戏本",
+      "brief": "冷酷的性能怪兽",
+      "price": "￥6699",
+      "imgsrc": "http://i8.mifile.cn/b2c-mimall-media/e1205035a4c4a6343aa21ccb4e4a61b3.jpg"
+    },
+    {
+      "name": "12.5 i5 256G 银色",
+      "brief": "轻薄长续航超窄边框",
+      "price": "￥4299",
+      "imgsrc": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/47fe877fda6e326933b310e706c0fe48.jpg"
+    },
+    {
+      "name": "15.6 i5 4G MX110款",
+      "brief": "全面均衡的国民轻薄本",
+      "price": "￥4199",
+      "imgsrc": "http://i8.mifile.cn/b2c-mimall-media/1fa33673786495ad880a3445eda319a0.jpg"
+    },
+    {
+      "name": "小米笔记本15.6",
+      "brief": "全面均衡的国民轻薄本",
+      "price": "￥4999",
+      "imgsrc": "http://i8.mifile.cn/b2c-mimall-media/f917f1ce6273b149c0fa180f0d11541b.jpg"
+    }
+  ],
+  "phoneList": [
+    {
+      "name": "黑鲨游戏手机 2",
+      "brief": "骁龙855，立体触控",
+      "price": "￥3199",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f12ac40ad65f77bb5231cb5844e28e5f.png",
+      "imgsrc": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c1482ad41b3c2b27252a336e90173e9e.jpg"
+    },
+    {
+      "name": "小米9",
+      "brief": "骁龙855，索尼4800万三摄",
+      "price": "￥2999",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d756ede6e1c8d35b84ab75203f7fac08.png",
+      "imgsrc": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/98596b20826e00be66497562388faa56.jpg"
+    },
+    {
+      "name": "Redmi Note 7 Pro",
+      "brief": "索尼4800万超清拍照 ",
+      "price": "￥1599",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/39d2170fb38edf3a080a8ba268c3d2b0.png",
+      "imgsrc": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1aa00056385bcc211b4765a9cb7d54b4.jpg"
+    },
+    {
+      "name": "小米8 SE",
+      "brief": "小屏旗舰机，AI超感光双摄 ",
+      "price": "￥1399",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/71fd75d1e071773de32dbd34440004eb.png",
+      "imgsrc": "http://i8.mifile.cn/b2c-mimall-media/a4a5fa8f2104b320faf6f3eef7df248e.jpg"
+    },
+    {
+      "name": "小米9 透明尊享版",
+      "brief": "骁龙855，索尼4800万三摄",
+      "price": "￥1399",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f6408805d1181ba8fef4e85dc826659c.png",
+      "imgsrc": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/85cf0651fddeca0b21a803e0bd80c4e5.jpg"
+    },
+    {
+      "name": "小米8 青春版",
+      "brief": "潮流轻旗舰，超级夜景模式",
+      "price": "￥1299",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dd8a9b8df015320eadf286b64dcaf2e7.png",
+      "imgsrc": "http://i8.mifile.cn/b2c-mimall-media/2f6ee5eee8cc221a00e381d4f624338e.jpg"
+    },
+    {
+      "name": "小米8 屏幕指纹版",
+      "brief": "压感屏幕指纹，手持超级夜景",
+      "price": "￥2499",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8bca63e4dd07641effb1ec15ae2d0e77.png",
+      "imgsrc": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5d7b8aaeeac04eb8abd882104a434c94.jpg"
+    },
+    {
+      "name": "红米6A",
+      "brief": "好看耐用/轻巧省心",
+      "price": "￥2499",
+      "imgUrl": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ac7adc2cccfff252d336dc88ead580c7.png",
+      "imgsrc": "http://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1224f0626069a99ba1b01feb0a2ea42e.jpg"
+    }
+  ]
+}

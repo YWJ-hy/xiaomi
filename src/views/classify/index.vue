@@ -23,7 +23,7 @@
           <img src="https://i8.mifile.cn/v1/a1/250eae49-3536-0d22-4f3a-5041affcb1f9!500x200.webp" alt="">
         </div>
         <div class="phone">
-          — <span>手机</span> —
+          — <router-link to="/listfile">点击手机电脑频道</router-link> —
         </div>
         <div class="phoneClassifi">
           <ul>

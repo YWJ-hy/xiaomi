@@ -37,6 +37,11 @@ export default new Router({
       path: '/register',
       name: 'register',
       component: () => import('../views/register/index.vue')
-    }
+    },
+    {
+      path: '/listfile',
+      name: 'listfile',
+      component: () => import('../views/listfile/index.vue')
+    },
   ]
 })
