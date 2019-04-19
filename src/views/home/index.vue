@@ -33,12 +33,13 @@ export default {
       value: "",
       active: 0,
       flag: false,
-      navList: ["home", "classfiy", "cart", "center"]
+      navList: ["home", "classify", "cart", "center"]
     };
   },
   methods: {
     bottomNav(active) {
       var name = this.navList[active];
+      console.log(name);
       this.$router.push({ name: name });
     }
   },

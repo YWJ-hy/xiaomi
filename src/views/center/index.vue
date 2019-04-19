@@ -6,8 +6,8 @@
           <img src="https://m.mi.com/static/img/avatar.76a75b8f17.png" alt="">
         </div>
         <div class="login">
-          <a href="javascript:">登入/</a>
-          <a href="javascript:">注册</a>
+          <router-link to="/login">登入/</router-link>
+          <router-link to="/register">注册</router-link>
         </div>
       </div>
     </div>
