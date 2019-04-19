@@ -101,7 +101,7 @@ export default {
       this.Television = res.data.television;
       this.crowdFunding = res.data.crowd;
     })
-  },
+  }
 }
 </script>
 <style lang="scss">
