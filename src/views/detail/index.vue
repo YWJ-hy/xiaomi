@@ -351,9 +351,11 @@ export default {
   }
   .van-swipe {
     overflow: hidden;
+    height: auto!important;
     .van-swipe-item {
       img {
         width: 100%;
+        height: 100%!important;
       }
     }
   }
