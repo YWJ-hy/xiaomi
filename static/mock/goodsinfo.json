@@ -1,0 +1,84 @@
+[{
+    "imgsrc": "//i8.mifile.cn/v1/a1/111cd2ee-0e6a-b286-d713-30a7fce817a3!344x280.webp",
+    "name": "黑鲨游戏手机 2",
+    "brief": "骁龙855，立体触控",
+    "price": "3199",
+    "gid": 15,
+    "ImgPreview": [
+      "//i8.mifile.cn/v1/a1/4c4ba715-87fa-e929-d582-1ad5922f825e.webp",
+      "//i8.mifile.cn/v1/a1/2f856728-726c-25b3-feb5-fef243c9a71e.webp",
+      "//i8.mifile.cn/v1/a1/7b30c8a2-606c-927f-5e7e-1b926b320a6b.webp",
+      "//i8.mifile.cn/v1/a1/61a6f170-5cae-bd03-6b7f-7b0f20c23232.webp",
+      "//i8.mifile.cn/v1/a1/d2fb5514-686c-2b37-85a3-036d87525ea6.webp"
+    ],
+    "tree": [{
+      "k": "版本",
+      "v": [{
+          "id": "1234",
+          "name": "6GB+128GB",
+          "imgUrl": "//i8.mifile.cn/v1/a1/4c4ba715-87fa-e929-d582-1ad5922f825e.webp"
+        },
+        {
+          "id": "1235",
+          "name": "8GB+128GB",
+          "imgUrl": "//i8.mifile.cn/v1/a1/4c4ba715-87fa-e929-d582-1ad5922f825e.webp"
+        }
+      ],
+      "k_s": "s1"
+    }],
+    "list": [{
+        "id": 2258,
+        "price": 319900,
+        "s1": "1234",
+        "stock_num": 90
+      },
+      {
+        "id": 2259,
+        "price": 349900,
+        "s1": "1235",
+        "stock_num": 110
+      }
+    ]
+  },
+  {
+    "imgsrc": "//i8.mifile.cn/v1/a1/caa27ba6-0736-6aec-f9c9-1c043e128209!344x280.webp",
+    "name": "Redmi Note 7",
+    "brief": "4800万拍照千元机",
+    "price": "1599",
+    "gid": 16,
+    "ImgPreview": [
+      "//i8.mifile.cn/v1/a1/b3db2170-bca0-588a-ae9b-86e2160e42a5.webp",
+      "//i8.mifile.cn/v1/a1/974d7e04-78c2-ad9b-4784-e10838ac765e.webp",
+      "//i8.mifile.cn/v1/a1/5c173097-badb-b227-111b-9336062e508f.webp",
+      "//i8.mifile.cn/v1/a1/02c68be9-b281-3369-5b3d-4e4ecc1c50bb.webp"
+    ],
+    "tree": [{
+      "k": "颜色",
+      "v": [{
+          "id": "1236",
+          "name": "亮黑色",
+          "imgUrl": "//i8.mifile.cn/a1/pms_1552647852.7014902.jpg"
+        },
+        {
+          "id": "1237",
+          "name": "梦幻蓝",
+          "imgUrl": "//i8.mifile.cn/a1/pms_1552647865.67536173.jpg"
+        }
+      ],
+      "k_s": "s1"
+    }],
+    "list": [{
+        "id": 2258,
+        "price": 159900,
+        "s1": "1236",
+        "stock_num": 90
+      },
+      {
+        "id": 2259,
+        "price": 159900,
+        "s1": "1237",
+        "stock_num": 110
+      }
+    ]
+  }
+]

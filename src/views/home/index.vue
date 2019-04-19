@@ -1,107 +1,64 @@
 <template>
   <div id="home_container">
-    <div class="box_position">
-      <div class="home_header">
-        <div style="width:52px;height:18px;">
-          <img src="/static/home/下载.png" alt>
-        </div>
-        <van-search placeholder="搜索商品名称" v-model="value" background="#fff"/>
-        <i class="iconfont icon-wode"></i>
-      </div>
-      <van-tabs title-active-color="#ed5b00">
-        <van-tab v-for="(item,index) in toptabList" :title="item" :key="index" @click="toptab(index)">
-        </van-tab>
-      </van-tabs>
-    </div>
-    <router-view></router-view>
-    <van-tabbar v-model="active" active-color="#ff6700">
+    <transition
+      appear
+      enter-active-class="animated slideInUp"
+      leave-active-class="animated slideOutDown"
+      mode="out-in"
+    >
+      <router-view></router-view>
+    </transition>
+
+    <van-tabbar v-model="active" active-color="#ff6700" @change="bottomNav(active)">
       <van-tabbar-item icon="wap-home">首页</van-tabbar-item>
       <van-tabbar-item icon="orders-o">分类</van-tabbar-item>
-      <van-tabbar-item icon="cart-o">购物车</van-tabbar-item>
+      <van-tabbar-item icon="cart-o" :info="$store.getters.cartTotalNum">购物车</van-tabbar-item>
       <van-tabbar-item icon="contact">我的</van-tabbar-item>
     </van-tabbar>
-    <div class="topBar" v-show="flag" @click="getTop">
-      <i class="iconfont icon-dingbu"></i>
-    </div>
   </div>
 </template>
 <script>
 import recommend from "./recommend";
-import $ from 'jquery'
+import phone from "./phone";
+import intelligence from "./intelligence";
+import $ from "jquery";
 export default {
   components: {
-    recommend
+    recommend,
+    phone,
+    intelligence
   },
   data() {
     return {
       value: "",
-      toptabList: [
-        "推荐",
-        "手机",
-        "智能",
-        "电视",
-        "家电",
-        "笔记本",
-        "生活周边"
-      ],
       active: 0,
-      flag:false,
-      navList:[
-
-      ]
+      flag: false,
+      navList: ["home", "classfiy", "cart", "center"]
     };
   },
   methods: {
-    getTop(){
-      var scrollTop = document.documentElement || document.body;
-      $(scrollTop).animate(
-        {
-          scrollTop: 0
-        },
-        1000
-      );
-    },
-    toptab(index){
-
+    bottomNav(active) {
+      var name = this.navList[active];
+      this.$router.push({ name: name });
+    }
+  },
+  watch: {
+    "$route.meta": function() {
+      this.active = this.$route.meta.bottomNav;
     }
   },
   created() {
-    document.onscroll=function(){
-      var scroll=document.documentElement.scrollTop || document.body.scrollTop;
-      if(scroll>=250){
-        document.getElementsByClassName('topBar')[0].style.display="block";
-      }else{
-        document.getElementsByClassName('topBar')[0].style.display="none";
-      }
-    }
+    this.active = this.$route.meta.bottomNav;
   }
 };
 </script>
 <style lang="scss">
 #home_container {
   background: #f2f2f2;
-  .topBar{
-    position: fixed;
-    bottom: 100px;
-    right: 20px;
-    z-index: 100;
-    height: 50px;
-    width: 50px;
-    border-radius:50%;
-    text-align: center;
-    background-color: rgba($color: #fff, $alpha: 0.5);
-    i{
-      font-size: 30px;
-      position: relative;
-      top: -50px;
-    }
-  }
-  .box_position{
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 100;
+  overflow-x: hidden;
+  height: 100%;
+  .box_position {
+    flex-shrink: 0;
     background: #f2f2f2;
   }
   .home_header {

@@ -6,22 +6,41 @@ Vue.use(Router)
 export default new Router({
   routes: [
     {
-      path: '/',
-      redirect: '/home'
+      path:'*',
+      redirect:'/'
     },
     {
-      path: '/home',
-      name: 'home',
+      path: '/',
       component: () => import('../views/home/index'),
-      redirect: '/home/recommend',
+      redirect:'/home',
       children: [
-        {path: 'recommend', component: () => import('../views/home/recommend.vue')}
+        {
+          path: 'home',
+          name: 'home',
+          component: () => import('../views/home/home'),
+          meta:{bottomNav:0}
+        },
+        {
+          path: 'cart',
+          name: 'cart',
+          component: () => import('../views/cart/index.vue'),
+          meta:{bottomNav:2}
+        },
+        {
+          path:'center', name:'center', component: () => import('../views/center/index.vue'), meta:{bottomNav:3}
+        }
       ]
     },
     {
       path: '/center',
       name: 'center',
       component: () => import('../views/center/index.vue')
+    },
+    {
+      path:'/detail/:gid', name:'detail', component: () => import('../views/detail/index.vue')
+    },
+    {
+      path:'/cart', name:'cart', component: () => import('../views/cart/index.vue')
     }
   ]
 })

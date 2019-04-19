@@ -3,86 +3,377 @@
       "imgsrc": "//i8.mifile.cn/v1/a1/1c3e0097-73a6-1788-96f7-2cdb58d82ba1!360x360.webp",
       "name": "小米8 青春版",
       "brief": "潮流轻旗舰，超级夜景模式",
-      "price": "1299"
+      "price": "1299",
+      "gid":1,
+      "gType":0
     },
     {
       "imgsrc": "//i8.mifile.cn/v1/a1/2dc1fd08-ee77-65dd-c52a-82ba382ae864!360x360.webp",
       "name": "小米8 屏幕指纹版",
       "brief": "压感屏幕指纹，手持超级夜景",
-      "price": "2499"
+      "price": "2499",
+      "gid":2,
+      "gType":0
     },
     {
       "imgsrc": "//i8.mifile.cn/v1/a1/def98121-4b54-54a6-debb-e5c8a51dd4f7!360x360.webp",
       "name": "黑鲨游戏手机 Helo",
       "brief": "双液冷，更能打",
-      "price": "3199"
+      "price": "3199",
+      "gid":3,
+      "gType":0
     },
     {
       "imgsrc": "//i8.mifile.cn/v1/a1/e8699727-9628-8c0b-103a-f14fe8a56d02!360x360.webp",
       "name": "红米6",
       "brief": "小屏高性能的双摄手机",
-      "price": "729"
+      "price": "729",
+      "gid":4,
+      "gType":0
     },
     {
       "imgsrc": "//i8.mifile.cn/v1/a1/1874f4a3-443e-84be-5a28-6d01afea64c4!360x360.webp",
       "name": "红米6A",
       "brief": "好看耐用/轻巧省心",
-      "price": "549"
+      "price": "549",
+      "gid":5,
+      "gType":0
     },
     {
       "imgsrc": "//i8.mifile.cn/v1/a1/bd9b6895-5b51-a0d6-fb79-e430ca40dca6!360x360.webp",
       "name": "小米6X",
       "brief": "前置2000万，后置2000万",
-      "price": "1199"
+      "price": "1199",
+      "gid":6,
+      "gType":0
     },
     {
       "imgsrc": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/a183eae8ce729005a1e1bf2907f6d51d.png?thumb=1&w=360&h=360",
       "name": "小米Play（附带流量卡）",
       "brief": "自带高速流量",
-      "price": "1099"
+      "price": "1099",
+      "gid":7,
+      "gType":0
     },
     {
       "imgsrc": "//i8.mifile.cn/v1/a1/a3005732-76c4-0c24-c311-6caf9913bc7c!360x360.webp",
       "name": "小米平板4",
       "brief": "大屏、长续航、超薄电脑",
-      "price": "1099"
+      "price": "1099",
+      "gid":8,
+      "gType":0
     }
   ],
   "recommendList2": [{
-      "imgsrc": "//i8.mifile.cn/v1/a1/6017d231-019c-a76d-e54a-0bb6948bfd0d!360x360.webp",
-      "name": "电视4A 43 青春版",
-      "brief": "人工智能语音，FHD全高清屏",
-      "price": "1299"
+      "imgsrc": "//i8.mifile.cn/v1/a1/10ef0a27-1fbb-f2a2-9f9c-ccac100610a0!344x280.webp",
+      "name": "小米米家空气净化器 2S",
+      "brief": "经典再升级，好空气看得见",
+      "price": "799",
+      "gid":9,
+      "gType":0
     },
     {
-      "imgsrc": "//i8.mifile.cn/v1/a1/d342ccbf-e3d6-2dcc-47a3-18656f28a0cc!360x360.webp",
-      "name": "小米电视4A 32英寸",
-      "brief": "人工智能系统，高清液晶屏",
-      "price": "799"
+      "imgsrc": "//i8.mifile.cn/v1/a1/f8fd70aa-4ff9-ae89-f5c4-f724ec059eca!344x280.webp",
+      "name": "小米米家智能门锁",
+      "brief": "一体化活体指纹识别",
+      "price": "1299",
+      "gid":10
     },
     {
-      "imgsrc": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7d4d94788f8591e5557a4c23c3ba4307.jpg?thumb=1&w=360&h=360",
-      "name": "小米电视4A 58英寸",
-      "brief": "4K HDR，人工智能语音系统",
-      "price": "2399"
+      "imgsrc": "//i8.mifile.cn/v1/a1/67cbf191-9f98-c953-c940-f5d138b32794!344x280.webp",
+      "name": "米家投影仪 青春版",
+      "brief": "伴你左右的轻巧高清影院",
+      "price": "2399",
+      "gid":11
     },
     {
-      "imgsrc": "//i8.mifile.cn/v1/a1/c547c9f7-1703-a6ae-79e0-4e27912595f8!360x360.webp",
-      "name": "小米电视4C 50英寸",
-      "brief": "4K HDR，钢琴烤漆",
-      "price": "1799"
+      "imgsrc": "//i8.mifile.cn/v1/a1/cd1c6583-7917-a1ee-ca3b-71b53eb96147!344x280.webp",
+      "name": "米家手持无线吸尘器",
+      "brief": "除尘除螨黑科技",
+      "price": "1299",
+      "gid":12
     },
     {
-      "imgsrc": "//i8.mifile.cn/v1/a1/4e925115-fde0-0364-814e-34471fda46e5!360x360.webp",
-      "name": "小米电视4X 55英寸",
-      "brief": "4K HDR，人工智能语音",
-      "price": "1999"
+      "imgsrc": "//i8.mifile.cn/v1/a1/64e59ece-53a6-096d-5388-55ee866aa123!344x280.webp",
+      "name": "米家扫地机器人1S",
+      "brief": "看得明白扫得彻底",
+      "price": "1999",
+      "gid":13
     },
     {
-      "imgsrc": "//i8.mifile.cn/v1/a1/b509d62f-a10a-6559-94f4-852b401815fb!360x360.webp",
-      "name": "小米电视4A 65英寸",
-      "brief": "4K HDR，人工智能语音系统",
-      "price": "2999"
+      "imgsrc": "//i8.mifile.cn/v1/a1/fdfc4d6f-b505-4208-bf88-0d57397d426a!344x280.webp",
+      "name": "米家破壁料理机",
+      "brief": "营养生活，为你细致打磨",
+      "price": "699",
+      "gid":14
+    }
+  ],
+  "phoneList": [{
+      "imgsrc": "//i8.mifile.cn/v1/a1/111cd2ee-0e6a-b286-d713-30a7fce817a3!344x280.webp",
+      "name": "黑鲨游戏手机 2",
+      "brief": "骁龙855，立体触控",
+      "price": "3199",
+      "gid":15
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/caa27ba6-0736-6aec-f9c9-1c043e128209!344x280.webp",
+      "name": "Redmi Note 7",
+      "brief": "4800万拍照千元机",
+      "price": "1599",
+      "gid":16
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/df928336-4375-9441-8b7f-6ca38804f6db!344x280.webp",
+      "name": "小米9",
+      "brief": "骁龙855，索尼4800万三摄",
+      "price": "2999",
+      "gid":17
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/8018ebd4-8eda-887e-f2e9-5556e71938f8!344x280.webp",
+      "name": "小米9 SE",
+      "brief": "索尼4800万三摄，骁龙712",
+      "price": "1999",
+      "gid":18
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/99adf817-0871-798e-473a-6ff65dacee65!344x280.webp",
+      "name": "Redmi Note 7 Pro",
+      "brief": "索尼4800万超清拍照 ",
+      "price": "1599",
+      "gid":19
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/6ccad7d4-205a-264c-93e5-bee53f0629e0!344x280.webp",
+      "name": "小米9 透明尊享版",
+      "brief": "骁龙855，索尼4800万三摄",
+      "price": "3999",
+      "gid":20
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/671e175c-6edf-b3ee-7a41-0e0cf0f5c135!344x280.webp",
+      "name": "小米8 青春版",
+      "brief": "潮流轻旗舰，超级夜景模式",
+      "price": "1299",
+      "gid":21
+    },
+    {
+      "imgsrc": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a4a5fa8f2104b320faf6f3eef7df248e.jpg?thumb=1&w=344&h=280",
+      "name": "小米8 SE",
+      "brief": "小屏旗舰机，AI超感光双摄",
+      "price": "1599",
+      "gid":22
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/407aa92b-6cc8-fb4c-e77f-2a72b53074cb!344x280.webp",
+      "name": "黑鲨游戏手机",
+      "brief": "液冷散热，独立图像处理芯片",
+      "price": "2299",
+      "gid":23
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/4848e768-dd4e-a61b-0c80-e90f8d5e469e!344x280.webp",
+      "name": "Redmi Note 7",
+      "brief": "4800万拍照千元机",
+      "price": "999",
+      "gid":24
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/9c8e3886-5903-2449-eccc-542ea1d8db79!344x280.webp",
+      "name": "小米9 SE",
+      "brief": "骁龙855，立体触控",
+      "price": "3199",
+      "gid":25
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/3972e11c-f4f4-9ad3-6919-bbf99468d106!344x280.webp",
+      "name": "小米MIX 3",
+      "brief": "磁动力滑盖全面屏",
+      "price": "3299",
+      "gid":26
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/d8aa2e38-dc2a-4993-91e2-5edef8185725!344x280.webp",
+      "name": "小米MIX 2S",
+      "brief": "陶瓷机身 手机中的艺术品",
+      "price": "2499",
+      "gid":27
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/ded56848-7a42-672a-a84b-58237c669558!344x280.webp",
+      "name": "小米Max 3",
+      "brief": "超大屏，超大电量",
+      "price": "1599",
+      "gid":28
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/8bb0f723-6a55-cdc5-513a-469e4d7320fa!344x280.webp",
+      "name": "黑鲨游戏手机 Helo",
+      "brief": "双液冷，更能打",
+      "price": "3199",
+      "gid":29
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/b178eac6-ab77-60bb-2263-164252c5f28b!344x280.webp",
+      "name": "小米Play",
+      "brief": "自带高速流量",
+      "price": "1099",
+      "gid":30
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/fc9bd6c3-543b-aee9-b8a9-28f6bb50c191!344x280.webp",
+      "name": "小米8",
+      "brief": "相机全新升级，骁龙845",
+      "price": "2499",
+      "gid":31
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/04a7d328-202c-fd4a-03a0-17909d5fa86f!344x280.webp",
+      "name": "小米8 屏幕指纹版",
+      "brief": "压感屏幕指纹，手持超级夜景",
+      "price": "2499",
+      "gid":32
+    }
+  ],
+  "intelligence": [{
+      "imgsrc": "//i8.mifile.cn/v1/a1/450956c5-4acb-14dc-bc36-ba640bfee836!344x280.webp",
+      "name": "小米AI音箱",
+      "brief": "听音乐、语音遥控家电",
+      "price": "299",
+      "gid":33
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/8bda3599-0ad3-6c31-cd92-b6e24427fb06!344x280.webp",
+      "name": "小米米家智能摄像机云台版",
+      "brief": "高清画质，守护家的每一面",
+      "price": "199",
+      "gid":34
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/ebae08b1-0f03-1084-329f-883ff1249d43!344x280.webp",
+      "name": "九号平衡车",
+      "brief": "年轻人的酷玩具",
+      "price": "1999",
+      "gid":35
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/333df7d8-a210-f6cf-bbde-1b6165b30d08!344x280.webp",
+      "name": "小米手环3 NFC版",
+      "brief": "能刷公交卡的手环",
+      "price": "179",
+      "gid":36
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/635de9e4-3e44-012b-864e-933c5a259089!344x280.webp",
+      "name": "小米净水器（厨下式）",
+      "brief": "400加仑大流量，隐藏安装",
+      "price": "1999",
+      "gid":37
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/36ffd362-cf98-716c-6759-3988613860d0!344x280.webp",
+      "name": "米家新风机",
+      "brief": "全效解决全屋空气问题",
+      "price": "2399",
+      "gid":38
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/cf989eb5-d64d-be53-3740-e14953779ee0!344x280.webp",
+      "name": "米家扫地机器人",
+      "brief": "智商高，扫得干净扫得快",
+      "price": "1699",
+      "gid":39
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/10ef0a27-1fbb-f2a2-9f9c-ccac100610a0!344x280.webp",
+      "name": "小米米家空气净化器 2S",
+      "brief": "经典再升级，好空气看得见",
+      "price": "799",
+      "gid":40
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/f8fd70aa-4ff9-ae89-f5c4-f724ec059eca!344x280.webp",
+      "name": "小米米家智能门锁",
+      "brief": "一体化活体指纹识别",
+      "price": "1299",
+      "gid":41
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/67cbf191-9f98-c953-c940-f5d138b32794!344x280.webp",
+      "name": "米家投影仪 青春版",
+      "brief": "伴你左右的轻巧高清影院",
+      "price": "2399",
+      "gid":42
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/f8fd70aa-4ff9-ae89-f5c4-f724ec059eca!344x280.webp",
+      "name": "小米米家智能门锁",
+      "brief": "一体化活体指纹识别",
+      "price": "1299",
+      "gid":43
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/64e59ece-53a6-096d-5388-55ee866aa123!344x280.webp",
+      "name": "米家扫地机器人1S",
+      "brief": "看得明白扫得彻底",
+      "price": "1999",
+      "gid":44
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/fdfc4d6f-b505-4208-bf88-0d57397d426a!344x280.webp",
+      "name": "米家破壁料理机",
+      "brief": "营养生活，为你细致打磨",
+      "price": "699",
+      "gid":45
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/fee8371b-955c-b5d4-ecc0-c8fb6526de51!344x280.webp",
+      "name": "米家多功能电煮壶",
+      "brief": "汤羹粥茶 精煮慢炖",
+      "price": "399",
+      "gid":46
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/cd1c6583-7917-a1ee-ca3b-71b53eb96147!344x280.webp",
+      "name": "米家手持无线吸尘器",
+      "brief": "除尘除螨黑科技",
+      "price": "1299",
+      "gid":47
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/e1186bcc-0c95-c5f0-673d-c00a8affdd83!344x280.webp",
+      "name": "米家温湿监测电子表",
+      "brief": "知冷暖懂干湿的电子表",
+      "price": "79",
+      "gid":48
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/f8fd70aa-4ff9-ae89-f5c4-f724ec059eca!344x280.webp",
+      "name": "小米米家智能门锁",
+      "brief": "一体化活体指纹识别",
+      "price": "1299",
+      "gid":49
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/2c33c071-723b-25ed-7a70-1f8fc4b72104!344x280.webp",
+      "name": "米家充气宝",
+      "brief": "便携电动打气筒",
+      "price": "199",
+      "gid":50
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/3652b3ff-aeca-654e-4a01-7e46a977e7e5!344x280.webp",
+      "name": "小米路由器Mesh",
+      "brief": "稳定覆盖 无处不在",
+      "price": "1299",
+      "gid":51
+    },
+    {
+      "imgsrc": "//i8.mifile.cn/v1/a1/a96142da-adf5-b75b-7f55-431058a458b6!344x280.webp",
+      "name": "AirDots 真无线蓝牙耳机",
+      "brief": "自动秒连，拿起就能用",
+      "price": "99",
+      "gid":52
     }
   ]
 }
